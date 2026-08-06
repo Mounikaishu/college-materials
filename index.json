@@ -12,7 +12,8 @@
     "CSE": {
         "1": {
             "BEEE": [
-                "Generator"
+                "Generator",
+                "invertor"
             ]
         }
     },
