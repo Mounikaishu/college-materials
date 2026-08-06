@@ -25,6 +25,9 @@
     },
     "IT": {
         "Semester1": {
+            "adsa": [
+                "trees"
+            ],
             "DBMS": [
                 "1",
                 "2"
