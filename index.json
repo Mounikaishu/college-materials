@@ -21,6 +21,9 @@
         "Semester1": {
             "networking": [
                 "communications"
+            ],
+            "registers": [
+                "base and limit"
             ]
         }
     },
